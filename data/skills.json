@@ -1,0 +1,32 @@
+{
+  "skills": [
+    "Python", "JavaScript", "Java", "C#", "C++", "C", "Go", "Rust",
+    "Django", "Flask", "FastAPI", "React", "Vue.js", "Angular", "Next.js",
+    "Node.js", "Express", "REST API", "GraphQL", "SQL", "PostgreSQL",
+    "MySQL", "MongoDB", "SQLite", "Docker", "Kubernetes", "AWS", "Azure",
+    "GCP", "Linux", "Git", "CI/CD", "Terraform", "Ansible", "Jenkins",
+    "Machine Learning", "Deep Learning", "TensorFlow", "PyTorch", "Keras",
+    "Data Science", "Data Analysis", "Pandas", "NumPy", "Scikit-learn",
+    "Natural Language Processing", "Computer Vision", "OpenCV", "Reinforcement Learning",
+    "Blockchain", "Smart Contracts", "Solidity", "Ethereum", "Bitcoin",
+    "UI/UX Design", "Figma", "Adobe XD", "Sketch", "Photoshop", "Illustrator",
+    "Game Development", "Unity", "Unreal Engine", "Cocos2d", "Blender",
+    "Cybersecurity", "Penetration Testing", "Ethical Hacking", "Network Security",
+    "QA Testing", "Selenium", "Cypress", "JUnit", "Test Automation", "Agile", "Scrum",
+    "Project Management", "Kanban", "Trello", "Jira", "Confluence",
+    "Marketing", "SEO", "Content Writing", "Social Media", "Google Analytics",
+    "Email Marketing", "PPC Advertising", "Customer Support", "Communication",
+    "Team Leadership", "Problem Solving", "Critical Thinking", "Negotiation",
+    "Time Management", "Decision Making", "Adaptability", "Collaboration",
+    "Creativity", "Presentation Skills", "Research", "Documentation",
+    "Linux Administration", "Windows Server", "Networking", "Virtualization",
+    "ERP Systems", "SAP", "CRM Systems", "Salesforce", "Accounting", "Finance",
+    "Cloud Architecture", "Serverless", "Microservices", "APIs", "Graph Databases",
+    "Redis", "RabbitMQ", "Kafka", "ElasticSearch", "Big Data", "Hadoop", "Spark",
+    "Tableau", "Power BI", "Looker", "Excel", "Data Visualization", "Statistical Analysis",
+    "Artificial Intelligence", "Robotics", "IoT", "Embedded Systems",
+    "Mobile Development", "iOS", "Android", "Flutter", "React Native",
+    "AR/VR Development", "3D Modeling", "Animation", "Video Editing",
+    "Photography", "Public Speaking", "Writing", "Translation", "Languages"
+  ]
+}
