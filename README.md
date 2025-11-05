@@ -6,12 +6,6 @@ This repository contains JSON files with data for:
 - **Programming Languages** – popular programming languages.
 - **Skills** – technical skills commonly used in software development and IT.
 
-These files can be used to populate databases for projects like:
-
-- User profiles in web applications.
-- Developer skill tracking systems.
-- Educational platforms and learning management systems.
-
 ## Files
 
 - `languages.json` – list of human languages.
